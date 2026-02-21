@@ -9,3 +9,6 @@ When I'm coding, I explore a diverse **tech stack**:
 - **Web Dev** -  Also developping front-end and full-stack projects - **HTML, CSS, JavaScript, and PHP**.  
 - **Databases** - Managing game data and web backends - **SQL**, **SQLite**, and **MySQL**.
 - Finally, I use **Figma** for UI design when I want to sketch ideas.
+
+## Other  
+Hobbies : Gym, Rock-Climbing, Chess, Video Games, Anime and Manga.
