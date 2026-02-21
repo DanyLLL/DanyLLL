@@ -11,4 +11,6 @@ When I'm coding, I explore a diverse **tech stack**:
 - Finally, I use **Figma** for UI design when I want to sketch ideas.
 
 ## Other ❓  
+I'm half Khmer, half Vietnamese.
+
 Hobbies : Gym, Rock-Climbing, Chess, Video Games, Anime and Manga.
