@@ -1,3 +1,6 @@
+## Hello 👋  
+
+
 I'm Dany, a **Software Engineering student** based in France.  
 I design and code whatever I can imagine, always with a focus on learning and having fun.
 
