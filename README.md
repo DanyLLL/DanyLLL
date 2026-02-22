@@ -11,7 +11,8 @@ When I'm coding, I explore a diverse **tech stack**:
 - Finally, I use **Figma** for UI design when I want to sketch ideas.
 
 ## Education 🎓  
-CS Student @ Université Paris Cité - BUT Informatique  
+CS Student @ Université Paris Cité - **BUT Informatique** (*2024-2027*)
+High School Student @ Lycée Rosa Parks - **Baccalauréat Général** (*2021-2024*) Specialized in **Mathematics**, **Computer Science (NSI)** and **Advanced Math** (optional)
 
 ## Other ❓  
 I'm half Khmer, half Vietnamese.
