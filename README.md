@@ -15,5 +15,5 @@ CS Student @ Université Paris Cité - **BUT Informatique** (*2024-2027*)
 High School Student @ Lycée Rosa Parks - **Baccalauréat Général** (*2021-2024*) Specialized in **Mathematics**, **Computer Science (NSI)** and **Advanced Math** (optional)
 
 ## Other ❓  
-I'm half Khmer, half Vietnamese.
+I'm half Khmer, half Vietnamese.  
 Hobbies : Gym, Rock-Climbing, Chess, Video Games, Anime and Manga.
