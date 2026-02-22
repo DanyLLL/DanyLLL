@@ -10,7 +10,9 @@ When I'm coding, I explore a diverse **tech stack**:
 - **Databases** - Managing game data and web backends - **SQL**, **SQLite**, and **MySQL**.
 - Finally, I use **Figma** for UI design when I want to sketch ideas.
 
+## Education 🎓  
+CS Student @ Université Paris Cité - BUT Informatique  
+
 ## Other ❓  
 I'm half Khmer, half Vietnamese.
-
 Hobbies : Gym, Rock-Climbing, Chess, Video Games, Anime and Manga.
