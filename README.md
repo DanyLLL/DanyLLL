@@ -16,5 +16,4 @@ High School Student @ Lycée Rosa Parks - **Baccalauréat Général** (*2021-202
 
 ## Other ❓  
 I'm half Khmer, half Vietnamese.  
-
 Hobbies : Gym, Rock-Climbing, Chess, Video Games, Anime and Manga.
